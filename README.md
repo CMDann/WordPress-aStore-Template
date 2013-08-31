@@ -1,5 +1,6 @@
 WordPress-aStore-Template
 =========================
+<a href="https://coderwall.com/cmdann"><img alt="Endorse CMDann on Coderwall" src="https://api.coderwall.com/cmdann/endorsecount.png" /></a>
 
 This is a PHP WordPress page template that allows you to embed an aStore directly into your WordPress website. An aStore is an Amazon affiliate store that you can creat to sell products through your affiliate program.
 
